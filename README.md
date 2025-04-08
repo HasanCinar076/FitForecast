@@ -51,6 +51,6 @@ Ensure you have Python installed on your machine. If not, download and install P
 ### Installation
 Clone the repository and install the required Python packages:
 ```bash
-git clone https://github.com/HasanCinar076/gym-attendance-prediction.git
+git clone https://github.com/HasanCinar076/FitForecast.git
 cd gym-attendance-prediction
 pip install -r requirements.txt
